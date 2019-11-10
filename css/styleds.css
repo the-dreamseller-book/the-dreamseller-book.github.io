@@ -1,0 +1,66 @@
+.header
+{
+	background-color: purple;
+	text-align: center;
+}
+.section-names
+{
+	background-color: purple;
+	text-align: right;
+}
+body
+{
+	background-color: #ffff99;
+}
+
+h1
+{
+	text-align: center;
+	color: white;
+	font-family: Courier;
+	font-size: 50px;
+
+}
+h3
+{
+	margin-top: 30px;
+	background-color: #990099;
+	text-align: left;
+	color: white;
+	font-family: Courier;
+	font-size: 30px;
+
+}
+h4
+{
+	
+}
+h6
+{
+	margin-top: 30px;
+}
+.headerimg
+{
+	min-width: 100%;
+}
+p
+{
+	margin-top: 20px;
+	color: purple;
+	font-family: Courier;
+	font-size: 30px;
+}
+.imgdreamseller
+{
+	margin-top: 20px;
+	max-width: 100%;
+	
+}
+.navbar-color-1
+{
+	margin-top: 20px;
+}
+.navbar-color-2
+{
+	background-color: purple;
+}
