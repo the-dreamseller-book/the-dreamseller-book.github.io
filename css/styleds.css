@@ -8,6 +8,11 @@
 	background-color: purple;
 	text-align: right;
 }
+.info
+{
+	font-family: 'Yeon Sung', cursive;
+	font-size: 30px;
+}
 body
 {
 	background-color: #ffff99;
@@ -33,7 +38,7 @@ h3
 }
 h4
 {
-	
+
 }
 h6
 {
